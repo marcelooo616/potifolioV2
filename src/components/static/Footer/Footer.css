@@ -1,0 +1,7 @@
+.container-footer{
+    display: flex;
+    justify-content: center;
+    color: #16DCF2;
+    background-color:#010440;
+    height: 400px;
+}
