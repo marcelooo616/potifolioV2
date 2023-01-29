@@ -1,0 +1,13 @@
+.section-projetos{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    height: 600px;
+}
+.section-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    height: 100px;
+}
